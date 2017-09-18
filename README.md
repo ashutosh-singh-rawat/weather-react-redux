@@ -1,6 +1,9 @@
 # React Redux Simple Starter Kit
 
 React Redux Simple Starter Kit.
+* GoogleMap
+* Charts
+* Weather API
 
 ## Getting Started
 
